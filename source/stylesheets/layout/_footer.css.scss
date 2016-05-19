@@ -1,0 +1,31 @@
+#footer {
+  background: #FFFFFF;
+  padding: 25px 0;
+  color: #CCCCCC;
+}
+#footer p {
+  margin-top: 17px;
+}
+#footer ul {
+  margin-top: 10px;
+  padding-right: 10px;
+  padding-left: 10px;
+}
+#footer a {
+  color: #CCCCCC;
+  font-size: 30px;
+  // letter-spacing: 20px;
+  transition: color 0.5s ease;
+}
+#footer a:hover{
+  color: #469AE0;
+}
+
+
+#footer ul li {
+display: inline-block;
+color: #808080;
+padding-bottom: 3px;
+padding-left: 10px;
+padding-right: 10px;
+}
